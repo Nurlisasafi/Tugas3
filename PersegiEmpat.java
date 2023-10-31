@@ -20,7 +20,7 @@ public class PersegiEmpat {
 
     /**
      * menginputkan panjang dan lebar
-     * @param args argumen perintah
+     * @param args hitungluas
      */
 
     public static void main(String[] args) {
